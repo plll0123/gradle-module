@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version 'none'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation project(':module-api')
+}
