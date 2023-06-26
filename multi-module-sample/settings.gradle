@@ -1,3 +1,4 @@
 rootProject.name = 'multi-module-sample'
 include 'multi-module-common'
+include 'multi-module-api'
 
